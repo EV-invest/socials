@@ -1,0 +1,20 @@
+# Footage and renders are artefacts: raw/ comes from Telegram, everything else is
+# rebuilt from it by build.py. Only the tools and the notes belong in here.
+*.mov
+*.MOV
+*.mp4
+*.MP4
+*.mkv
+*.m4v
+*.avi
+*.wav
+*.mp3
+*.m4a
+*.trf
+
+raw/
+work/
+out/
+proxy/
+
+__pycache__/
